@@ -13,7 +13,7 @@ some database.
 
 ## Wireframes
 
-![alt text](./pixel-jump-wireframe.png "Pixel Jump Wireframe")
+![alt text](./src/images/pixel-jump-wireframe.png "Pixel Jump Wireframe")
 
 ## Architecture and Technologies
 - Frontend
