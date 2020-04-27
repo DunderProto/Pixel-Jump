@@ -14,3 +14,23 @@ some database.
 ## Wireframes
 
 ![alt text](./pixel-jump-wireframe.png "Pixel Jump Wireframe")
+
+## Architecture and Technologies
+- Frontend
+    - JavaScript, HTML/CSS
+- Backend
+    - Firebase
+
+## Implementation Timeline
+- Phase 1 - Day 1/2
+    - File Structure
+    - Understand / research JavaScript canvas
+    - Write classes for entities (player object, platform, etc) and implement game physics
+
+- Phase 2 - Day 3/4
+    - Create game logic and determine when the player loses
+    - Implement score, accumulated by reaching greater heights with platforms
+
+- Phase 3 - Day 5
+    - Save high-scores to database along with player name
+    - Somehow increase difficulty as the player goes higher
