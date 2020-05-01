@@ -20,49 +20,49 @@ window.onload = function() {
     player = new Player(200, 350);
 
     // Level One
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < 1; i++) {
         let platform = new LevelOne(Math.random()*320, platDy);
         platDy -= 100;
         platforms.push(platform);
     }
 
     // Level Two
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < 1; i++) {
         let platform = new LevelTwo(Math.random()*320, platDy);
         platDy -= 100;
         platforms.push(platform);
     }
 
     // Level Three
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < 1; i++) {
         let platform = new LevelThree(Math.random()*320, platDy);
         platDy -= 100;
         platforms.push(platform);
     }
 
     // Level Four
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < 1; i++) {
         let platform = new LevelFour(Math.random()*320, platDy);
         platDy -= 100;
         platforms.push(platform);
     }
 
     // Level Five
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < 1; i++) {
         let platform = new LevelFive(Math.random()*320, platDy);
         platDy -= 100;
         platforms.push(platform);
     }
 
     // Level Six
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < 1; i++) {
         let platform = new LevelSix(Math.random()*320, platDy);
         platDy -= 180;
         platforms.push(platform);
     }
 
     // Level Seven
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < 1; i++) {
         let platform = new LevelSeven(Math.random()*320, platDy);
         platDy -= 180;
         platforms.push(platform);
